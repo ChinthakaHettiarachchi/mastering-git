@@ -1,1 +1,1 @@
-console.log('Hello, World! from feature branch');
+console.log('Hello, World!');
