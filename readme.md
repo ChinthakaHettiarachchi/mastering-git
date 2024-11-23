@@ -33,3 +33,5 @@
 - create branch from main
 ```git branch developer main```
 - this is edited by git feature branch
+- to merge the main branch into the <branch name> ex: feature branch 
+```git merge main```
