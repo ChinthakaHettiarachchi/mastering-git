@@ -32,3 +32,8 @@
 ```git checkout feature```
 - create branch from main
 ```git branch developer main```
+- this is edited by git feature branch
+- to merge the main branch into the <branch name> ex: feature branch 
+```git merge main```
+- reset soft and hard ```git reset <commite-hash>``` or ```git reset --hard <commit-hash>``` 
+- Revert command ```git revert <commit-hash>```
