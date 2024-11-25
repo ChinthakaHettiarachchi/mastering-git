@@ -37,3 +37,4 @@
 ```git merge main```
 - reset soft and hard ```git reset <commite-hash>``` or ```git reset --hard <commit-hash>``` 
 - Revert command ```git revert <commit-hash>```
+- Rebase command ```git rebase <branch-name>```
