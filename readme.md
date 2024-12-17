@@ -39,3 +39,4 @@
 - Revert command ```git revert <commit-hash>```
 - Rebase command ```git rebase <branch-name>```
 
+[//]: # (test2)
